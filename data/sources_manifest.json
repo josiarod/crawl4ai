@@ -1,0 +1,524 @@
+[
+  {
+    "domain": "www.consumerfinance.gov",
+    "robots_status": "allowed",
+    "pages_crawled_count": 186,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.bde.es",
+    "robots_status": "allowed",
+    "pages_crawled_count": 201,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.gob.mx",
+    "robots_status": "allowed",
+    "pages_crawled_count": 36,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.cmfeduca.cl",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.argentina.gob.ar",
+    "robots_status": "allowed",
+    "pages_crawled_count": 181,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.sbs.gob.pe",
+    "robots_status": "allowed",
+    "pages_crawled_count": 196,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.superfinanciera.gov.co",
+    "robots_status": "allowed",
+    "pages_crawled_count": 171,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.finra.org",
+    "robots_status": "allowed",
+    "pages_crawled_count": 66,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.fdic.gov",
+    "robots_status": "allowed",
+    "pages_crawled_count": 6,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "clientebancario.bde.es",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.finanzasparatodos.es",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.banxico.org.mx",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.bcentral.cl",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.banrep.gov.co",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.bcrp.gob.pe",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.gub.uy",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.set.gov.py",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.hacienda.gov.py",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.bcp.gov.py",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.mic.gov.py",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.supercias.gob.ec",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.sri.gob.ec",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.bce.fin.ec",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.finanzaspopulares.gob.ec",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.bcb.gob.bo",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.asfi.gob.bo",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.aduana.gob.bo",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "portal.sat.gob.gt",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.banguat.gob.gt",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.mh.gob.sv",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.siboif.gob.ni",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.bcn.gob.ni",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.dgi.gob.ni",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.superbancos.gob.pa",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "dgi.mef.gob.pa",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.mef.gob.pa",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "dgii.gov.do",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.irs.gov",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.usa.gov",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.oecd.org",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.imf.org",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.worldbank.org",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.iadb.org",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.caf.com",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.bbva.com",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.santander.com",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.moneysmart.gov.au",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.fca.org.uk",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.occ.treas.gov",
+    "robots_status": "allowed",
+    "pages_crawled_count": 5,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.federalreserveeducation.org",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.calculator.net",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.nerdwallet.com",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.ramseysolutions.com",
+    "robots_status": "allowed",
+    "pages_crawled_count": 1,
+    "timestamps": [
+      "2026-02-21T19:40:37+00:00"
+    ],
+    "notes": []
+  },
+  {
+    "domain": "www.sat.gob.mx",
+    "robots_status": "blocked",
+    "pages_crawled_count": 0,
+    "timestamps": [],
+    "notes": [
+      "robots_status:403"
+    ]
+  },
+  {
+    "domain": "www.sunat.gob.pe",
+    "robots_status": "blocked",
+    "pages_crawled_count": 0,
+    "timestamps": [],
+    "notes": [
+      "robots_status:403"
+    ]
+  },
+  {
+    "domain": "www.dian.gov.co",
+    "robots_status": "blocked",
+    "pages_crawled_count": 0,
+    "timestamps": [],
+    "notes": [
+      "robots_status:403"
+    ]
+  },
+  {
+    "domain": "www.bcra.gob.ar",
+    "robots_status": "blocked",
+    "pages_crawled_count": 0,
+    "timestamps": [],
+    "notes": [
+      "robots_status:403"
+    ]
+  },
+  {
+    "domain": "www.condusef.gob.mx",
+    "robots_status": "blocked",
+    "pages_crawled_count": 0,
+    "timestamps": [],
+    "notes": [
+      "robots_status:403"
+    ]
+  }
+]
